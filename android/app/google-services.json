@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "107461356026",
+    "project_id": "ticohub-ccdd4",
+    "storage_bucket": "ticohub-ccdd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107461356026:android:c7328c51552d01ac27dc43",
+        "android_client_info": {
+          "package_name": "com.example.isadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107461356026-vi055dth0qe05kkhrnanon2l46lk2pvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSuke4NtwMnCrMd-2i-FDKrypN_doYRWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107461356026-vi055dth0qe05kkhrnanon2l46lk2pvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107461356026-jd5k8fh6dfi150b4ip6eopkbpj9vuffi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookrecep"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107461356026:android:8c97b22c9631a8d427dc43",
+        "android_client_info": {
+          "package_name": "com.thecook.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107461356026-na72v0rj1rr786mioeadeb6sgned75me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecook.app",
+            "certificate_hash": "c1fb3e8abfae837e187009faf0f609b225aa80b9"
+          }
+        },
+        {
+          "client_id": "107461356026-vi055dth0qe05kkhrnanon2l46lk2pvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSuke4NtwMnCrMd-2i-FDKrypN_doYRWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107461356026-vi055dth0qe05kkhrnanon2l46lk2pvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107461356026-jd5k8fh6dfi150b4ip6eopkbpj9vuffi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookrecep"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
